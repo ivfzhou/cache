@@ -1,7 +1,10 @@
-### Golang本地缓存代码库
+### Golang本地缓存器
 变量缓存本地进程内存中，超时释放。
 
 #### 使用
+```shell
+go get gitee.com/ivfzhou/cache@latest
+```
 ```golang
 go get gitee.com/ivfzhou/cache@latest
 import cache "gitee.com/ivfzhou/cache"
@@ -29,4 +32,4 @@ c.Size()
 
 ```
 
-联系电邮：ivfzhou@aliyun.com
+联系电邮：ivfzhou@126.com
